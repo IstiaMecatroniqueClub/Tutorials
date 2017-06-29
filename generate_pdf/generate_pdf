@@ -1,0 +1,1 @@
+pandoc --listings -H listing-setup.tex --toc -V geometry:"left=2cm, top=2cm, right=2cm, bottom=2cm" -V fontsize=12pt --highlight-style tango  ../../Tutorials.wiki/*.md -o tutorial.pdf --latex-engine=xelatex 
