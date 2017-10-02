@@ -33,3 +33,11 @@ Then, in the Tutorials folder, just use the generate_pdf executable file
 ```cmd
 $ ./generate_pdf
 ```
+
+## The assembling tutorial
+
+The assembling tutorial details the steps required to build an IstiABot. The Tuto_assembling folder contains the source code of the pdf (Latex source and the images).
+
+## The CAN ATMEGA tutorial
+
+The CAN_ATMEGA tutorial presents the steps to be able to use the CAN bus over an ATMEGA32M1. The source (odt - LibreOffice file) of the document is in the folder Tuto_CAN.
